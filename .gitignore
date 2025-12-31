@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+*.cache
+
+# Arduino build files
+*.hex
+*.bin
+*.elf
+
+# Android / App Files
+*.apk
+*.aia
