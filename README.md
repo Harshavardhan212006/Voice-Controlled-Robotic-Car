@@ -61,8 +61,14 @@ The system consists of four main functional blocks:
 ## 6. Arduino Firmware
 Firmware is available in:
 - Installable APK available in:
-
+Firmware/end_project.ino
 ---
+
+## 7. Android Application
+- MIT App Inventor Source File (.aia) available in:
+App/IOT_Project.aia
+- Installable APK available in:
+App/Releases/
 
 ## 8. Results
 - Robot successfully responded to all five commands:
